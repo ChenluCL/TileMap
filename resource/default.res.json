@@ -1,0 +1,125 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,run_01_png,run_02_png,stand_03_png,stand_04_png,stand_05_png,stand_02_png,stand_06_png,stand_07_png,stand_09_png,stand_08_png,stand_10_png,run_03_png,run_04_png,run_05_png,run_07_png,run_08_png,run_06_png,stand_01_png,zhangai_jpg,dimian_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/mc/run_01.png",
+			"type": "image",
+			"name": "run_01_png"
+		},
+		{
+			"url": "assets/mc/run_02.png",
+			"type": "image",
+			"name": "run_02_png"
+		},
+		{
+			"url": "assets/mc/stand_03.png",
+			"type": "image",
+			"name": "stand_03_png"
+		},
+		{
+			"url": "assets/mc/stand_04.png",
+			"type": "image",
+			"name": "stand_04_png"
+		},
+		{
+			"url": "assets/mc/stand_05.png",
+			"type": "image",
+			"name": "stand_05_png"
+		},
+		{
+			"url": "assets/mc/stand_02.png",
+			"type": "image",
+			"name": "stand_02_png"
+		},
+		{
+			"url": "assets/mc/stand_06.png",
+			"type": "image",
+			"name": "stand_06_png"
+		},
+		{
+			"url": "assets/mc/stand_07.png",
+			"type": "image",
+			"name": "stand_07_png"
+		},
+		{
+			"url": "assets/mc/stand_09.png",
+			"type": "image",
+			"name": "stand_09_png"
+		},
+		{
+			"url": "assets/mc/stand_08.png",
+			"type": "image",
+			"name": "stand_08_png"
+		},
+		{
+			"url": "assets/mc/stand_10.png",
+			"type": "image",
+			"name": "stand_10_png"
+		},
+		{
+			"url": "assets/mc/run_03.png",
+			"type": "image",
+			"name": "run_03_png"
+		},
+		{
+			"url": "assets/mc/run_04.png",
+			"type": "image",
+			"name": "run_04_png"
+		},
+		{
+			"url": "assets/mc/run_05.png",
+			"type": "image",
+			"name": "run_05_png"
+		},
+		{
+			"url": "assets/mc/run_07.png",
+			"type": "image",
+			"name": "run_07_png"
+		},
+		{
+			"url": "assets/mc/run_08.png",
+			"type": "image",
+			"name": "run_08_png"
+		},
+		{
+			"url": "assets/mc/run_06.png",
+			"type": "image",
+			"name": "run_06_png"
+		},
+		{
+			"url": "assets/mc/stand_01.png",
+			"type": "image",
+			"name": "stand_01_png"
+		},
+		{
+			"url": "assets/zhangai.jpg",
+			"type": "image",
+			"name": "zhangai_jpg"
+		},
+		{
+			"url": "assets/dimian.jpg",
+			"type": "image",
+			"name": "dimian_jpg"
+		}
+	]
+}
