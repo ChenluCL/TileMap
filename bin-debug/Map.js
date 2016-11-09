@@ -29,7 +29,7 @@ var TileMap = (function (_super) {
             var gridX = Math.floor(localX / TileMap.TILE_SIZE);
             var gridY = Math.floor(localY / TileMap.TILE_SIZE);
             _this._astar = new AStar();
-            var grid = new Grid(12, 12, config);
+            var grid = new Grid(9, 12, config);
             grid.setStartNode(playerX, playerY);
             grid.setEndNode(gridX, gridY);
             //console.log(grid._nodes);
